@@ -1,0 +1,36 @@
+#intro{
+  height:500px;
+  width:1700px;
+  background-color:#eee;
+  color:Teal;
+  text-align:center;
+}
+.one{
+ padding-top:200px;
+}
+#me{
+ text-align:center;
+}
+.two{
+  padding-left:25px;
+  padding-right:25px;
+  padding-top:20px;
+}
+#projects{
+  text-align:center;
+}
+.project-title{
+  display:flex;
+  /*padding-left:400px;*/
+  /*justify-content: center;*/
+  justify-content: space-around;
+}
+#ttt{
+  padding-left:20px;
+}
+#footer {
+   text-align: center;
+  height:200px;
+  width:1600px;
+  background-color:#eee;
+  }
